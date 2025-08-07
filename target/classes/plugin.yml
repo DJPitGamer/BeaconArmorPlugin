@@ -1,0 +1,6 @@
+name: BeaconArmorPlugin
+main: pl.pitgamer.beaconarmor.BeaconArmorPlugin
+version: 1.21
+author: PitGamer1909
+api-version: 1.21
+description: Ein Plugin, das Beacon-Effekte über einen speziellen Helm ermöglicht.
