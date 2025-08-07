@@ -36,7 +36,7 @@ Your players will grind for it. And love it.
 
 ## 📦 Installation
 
-1. Download the plugin `.jar` from the [Releases](#) tab  
+1. Download the plugin `.jar` from the [Releases](https://github.com/DJPitGamer/BeaconArmorPlugin/releases) tab  
 2. Drop the `.jar` file into your server’s `/plugins` folder  
 3. Restart or reload your server  
 4. Done – you're ready to dominate with Beacon Gear!
